@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hey, I'm Aidan 🦊
 
-<!--
-**NeWaffless/NeWaffless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+Welcome to my humble little GitHub. My name's Aidan Walbran, and I'm a Sydney based wanna be Game Developer who recently graduated with a Bachelor in Design Computing. I'm a fresh tuft of grass in the professional scheme of things, but I'd love to be able change that in the near future. My interests are Games and VR development, though I most love seeing the tangible results from a tough project.
 
-Here are some ideas to get you started:
+## What am I working on? 💻
+- Personal portfolio
+- Getting employed
+- Converting an old command line game to a playable game on the web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What am I learning? 💭
+- Blender
+- Shaders
+
+Yeah... seriously need to pick up my modelling game.
+
+## My favourite joke? 🐳
+_What do you call a fish with no eyes? A fsh_
+
+One of the greatest fins about me is my fish jokes.
+
+## Contact me? 🗨️
+My email is newaffles@gmail.com
+
+I'll have a contact page set up soon enough. Please contact me if you have any questions, any job opportunities, any recommendations on how I can improve my portfolio, or if you have any great fish jokes.
+
+
+## Goodbye? 👋
+I hope you find something here you like, but if not, that's fine, I hope you have a great day.
