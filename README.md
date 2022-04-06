@@ -1,4 +1,4 @@
-### Hey, I'm Aidan 🦊
+# Hey, I'm Aidan 🦊
 
 ## Who am I? 🙌
 Welcome to my humble little GitHub. My name's Aidan Walbran, and I'm a Sydney based wanna be Game Developer who recently graduated with a Bachelor in Design Computing. I'm a fresh tuft of grass in the professional scheme of things, but I'd love to be able change that in the near future. My interests are Games and VR development, though I most love seeing the tangible results from a tough project.
