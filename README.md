@@ -1,6 +1,6 @@
 ### Hey, I'm Aidan 🦊
 
-## Who am I?
+## Who am I? 🙌
 Welcome to my humble little GitHub. My name's Aidan Walbran, and I'm a Sydney based wanna be Game Developer who recently graduated with a Bachelor in Design Computing. I'm a fresh tuft of grass in the professional scheme of things, but I'd love to be able change that in the near future. My interests are Games and VR development, though I most love seeing the tangible results from a tough project.
 
 ## What am I working on? 💻
@@ -22,8 +22,8 @@ One of the greatest fins about me is my fish jokes.
 ## Contact me? 🗨️
 My email is newaffles@gmail.com
 
-I'll have a contact page set up soon enough. Please contact me if you have any questions, any job opportunities, any recommendations on how I can improve my portfolio, or if you have any great fish jokes.
+I'll have a contact page set up soon enough. Please contact me if you have any questions, job opportunities, recommendations on how I can improve my portfolio, or for any reason really.
 
 
 ## Goodbye? 👋
-I hope you find something here you like, but if not, that's fine, I hope you have a great day.
+I hope you find something here you like, but if not, that's fine as long as you make sure to have a great day.
