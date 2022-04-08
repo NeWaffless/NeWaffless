@@ -3,7 +3,7 @@
 ![Banner-2](https://user-images.githubusercontent.com/75866732/162180530-c47f43ee-55c9-41fd-8bb4-5cbe4cd7d174.png)
 
 ## Who am I? 🙌
-Welcome to my humble little GitHub. My name's Aidan Walbran, and I'm a Sydney based wanna be Game Developer who recently graduated with a Bachelor in Design Computing. I'm a fresh tuft of grass in the professional scheme of things, but I'd love to be able change that in the near future. My interests are Games and VR development, though I most love seeing the tangible results from a tough project.
+Welcome to my humble little GitHub. My name's Aidan Walbran, and I'm a Sydney based Game Developer who recently graduated with a Bachelor in Design Computing. I'm a fresh tuft of grass in the professional scheme of things, but I'd love to be able change that in the near future. My interests are Games and VR development, though I most love seeing the tangible results from a tough project.
 
 ## What have I worked on? 💼
 - [Lost Reef - VR](https://github.com/NeWaffless/VR_Lost-Reef)
